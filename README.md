@@ -125,7 +125,7 @@ p{font-size: clamp(1.125rem, 1.125rem + ((1vw - 0.48rem) * 0.721), 1.5rem);lette
 				.admin-bar .goog-te-banner-frame {
 					position: absolute;
 				}
-			}
+			} 
 		
 </style>
 <style id='global-styles-inline-css'>
