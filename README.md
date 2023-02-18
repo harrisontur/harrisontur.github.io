@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8" />
@@ -181,7 +180,7 @@ var actionbardata = {"siteID":"215343238","siteURL":"http:\/\/harrisontur.wordpr
 	}
 </style>
 	<style id='wp-fonts-local'>
-@font-face{font-family:"Albert Sans";font-style:normal;font-weight:300;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_300.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:500;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_500.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:600;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_600.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:700;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_700.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:700;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_700italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:600;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_600italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:500;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_500italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:400;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:300;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_300italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:400;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_regular.ttf') format('truetype');}
+@font-face{font-family:"Albert Sans";font-style:normal;font-weight:300;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_300.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:500;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/assets/fonts/albert-sans_500.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:600;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_600.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:700;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_700.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:700;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_700italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:600;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_600italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:500;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_500italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:400;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:italic;font-weight:300;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_300italic.ttf') format('truetype');}@font-face{font-family:"Albert Sans";font-style:normal;font-weight:400;font-display:fallback;src:url('https://s0.wp.com/wp-content/themes/pub/muscat/assets/fonts/albert-sans_regular.ttf') format('truetype');}
 </style>
 <style id='wp-fonts-jetpack-google-fonts'>
 /* latin-ext */
@@ -24561,17 +24560,7 @@ var HighlanderComments = {"loggingInText":"Logging In\u2026","submittingText":"P
 			<svg class="gridicon gridicons-reader-following" height="24" width="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g><path d="M23 13.482L15.508 21 12 17.4l1.412-1.388 2.106 2.188 6.094-6.094L23 13.482zm-7.455 1.862L20 10.89V2H2v14c0 1.1.9 2 2 2h4.538l4.913-4.832 2.095 2.176zM8 13H4v-1h4v1zm3-2H4v-1h7v1zm0-2H4V8h7v1zm7-3H4V4h14v2z"/></g></svg><span>Following</span>
 		</a>
 										</li>
-																	<li class="actnbr-theme">
-										<a href="https://wordpress.com/theme/muscat/">Get theme: Muscat</a>
-									</li>
-																	<li class="actnbr-reader">
-										<a href="https://wordpress.com/read/feeds/138610805">
-											View site in Reader										</a>
-									</li>
-																	<li class="actnbr-follows">
-										<a href="https://wordpress.com/following/manage?s=harrisontur.wordpress.com">
-											Manage subscriptions										</a>
-									</li>
+																	
 																		<li class="actnbr-fold"><a href="">Collapse this bar</a></li>
 															</ul>
 					</div>
