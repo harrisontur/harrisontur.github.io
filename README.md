@@ -24156,7 +24156,7 @@ var actionbardata = {"siteID":"215343238","siteURL":"http:\/\/harrisontur.wordpr
 }
 
 </style>
-<div id="marketingbar" class="marketing-bar noskim"><div class="marketing-bar-text">Remove this site banner with a paid plan</div><a class="marketing-bar-button" href="https://wordpress.com/plans/harrisontur.wordpress.com/?ref=marketing_bar">Remove banner</a><a class="marketing-bar-link" tabindex="-1" aria-label="Create your website at WordPress.com" href="https://wordpress.com/plans/harrisontur.wordpress.com/?ref=marketing_bar"></a></div></head>
+</head>
 
 <body class="home blog logged-in admin-bar no-customize-support wp-embed-responsive customizer-styles-applied has-marketing-bar has-marketing-bar-theme-muscat jetpack-reblog-enabled highlander-enabled highlander-light">
 		<div id="wpadminbar" class="nojq nojs ltr nav-unification">
